@@ -6,7 +6,7 @@
 Tentative Curriculum
 |週| 内容タイトル | 
 |---|----------|
-1	Pythonのデータ型：List
+|1|	Pythonのデータ型：List
 2	Pythonのデータ型：数字
 3	Pythonのデータ型：文字列
 4	Pythonのデータ型：Boolean
