@@ -7,18 +7,18 @@ Tentative Curriculum
 |週| 内容タイトル | 
 |---|----------|
 |1|	Pythonのデータ型：List
-2	Pythonのデータ型：数字
-3	Pythonのデータ型：文字列
-4	Pythonのデータ型：Boolean
-5	Pythonのデータ型：Set
-6	Pythonのデータ型：Dictionary
-7	Python 文字列の書式指定とフォーマット（.format機能）
-8	まとめ１：変数の万能な使い方
-9	まとめ２
-10	Python の制御文：if 文、第一
-11	Python の制御文：if 文、第二（pass文も学ぶ）
-12	Python の制御文：for 文による繰返し、第一
-13	Python の制御文：for 文による繰返し、第二
+|2|	Pythonのデータ型：数字
+|3|	Pythonのデータ型：文字列
+|4|	Pythonのデータ型：Boolean
+|5|	Pythonのデータ型：Set
+|6|	Pythonのデータ型：Dictionary
+|7|	Python 文字列の書式指定とフォーマット（.format機能）
+|8|	まとめ１：変数の万能な使い方
+|9|	まとめ２
+|10|	Python の制御文：if 文、第一
+|11	| Python の制御文：if 文、第二（pass文も学ぶ）
+|12|	Python の制御文：for 文による繰返し、第一
+|13|	Python の制御文：for 文による繰返し、第二
 14	Python の制御文：while 文による繰返し
 15	まとめ３：課題解決
 16	まとめ４：課題解決
