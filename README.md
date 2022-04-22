@@ -1,4 +1,4 @@
-# python_beginner_course
+# Python初心者コース
 初心者向きのPythonプログラミングコース。
 
 参考：https://python.keicode.com 
