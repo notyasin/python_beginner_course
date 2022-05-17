@@ -6,12 +6,12 @@
 Tentative Curriculum
 |週| 内容タイトル | 
 |---|----------|
-|1|	Pythonのデータ型：List
-|2|	Pythonのデータ型：数字
-|3|	Pythonのデータ型：文字列
-|4|	Pythonのデータ型：Boolean
-|5|	Pythonのデータ型：Set
-|6|	Pythonのデータ型：Dictionary
+|1| Python(パイソン)プログラミングの基本|
+|2|	Pythonのデータ型：List
+|3|	Pythonのデータ型：数字
+|4|	Pythonのデータ型：文字列とDictionary（辞書）
+|5|	Pythonのデータ型：Booleanとif文（紹介）
+|6|	Pythonのデータ型：Set
 |7|	Python 文字列の書式指定とフォーマット（.format機能）
 |8|	まとめ１：変数の万能な使い方
 |9|	まとめ２
